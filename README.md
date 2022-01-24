@@ -1,6 +1,9 @@
 # WOS
 Official repository for the WOS Token Project
 
+## Add WOS to MetaMask
+To add WOS to your metamask wallet you need to select add tokens under the Assets tab. Just paste in the token address 0xf91e6e28c3fef7b05d27ee8f5b802d8a425b58f0 and add the token! Currently the WOS token will not show the icon on metamask so do not be shocked when a random icon is shown.
+
 ## Tokenomics
 The WOS token is built to reward buyers and punish sellers. When sent, the seller is punished with an automatic burning of 1 token from the senders wallet. This rewards the reciever/buyer with an immediate shrinking supply. Eventually this means that two tokens will be left and the owner of that wallet will send 1 token and burn the other. The recieving wallet will now have the last token and will be automatically rewarded with 250 Million freshly minted tokens for being the last to hold.
 
